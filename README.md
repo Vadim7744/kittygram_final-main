@@ -72,7 +72,5 @@ http://localhost:9000/
 sudo docker compose -f docker-compose.yml down
 ```
 
-## Автор
-
-Dovgopol Vadim 
-https://github.com/Vadim7744
+- Dovgopol Vadim
+- https://github.com/Vadim7744
